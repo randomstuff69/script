@@ -1,6 +1,6 @@
 <html lang="en"><head>
     <meta charset="utf-8">
-    <body style="margin: 0px; height: 100vh;" class="embedded theme-sugar"></head>
+    <body style="margin: 0px; height: 100vh;" class="embedded theme-sugar">
     <link id="favicon" rel="icon" href="https://glitch.com/favicon.ico" type="image/x-icon">
 
     <script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/N8NetCAuTbHYGqtQtb44FFBSPUXwsAu2/analytics.min.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/1h-hbVSJRMOQsmO_2qL9cO0z/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-oPLuJ5GvCPa+xE5+sUj1qdRiz2CRlz7M40INEK/qMfWH71A4aD0cpJwQiZVVdiVm"></script><script>
