@@ -1,6 +1,5 @@
-<html lang="en"></head>
-    <meta charset="utf-8">
-    </meta><body style="margin: 0px; height: 100vh;" class="embedded theme-sugar">
+<html lang="en"><head>
+    </head><body style="margin: 0px; height: 100vh;" class="embedded theme-sugar">
     <link id="favicon" rel="icon" href="https://glitch.com/favicon.ico" type="image/x-icon">
 
     <script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/N8NetCAuTbHYGqtQtb44FFBSPUXwsAu2/analytics.min.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/1h-hbVSJRMOQsmO_2qL9cO0z/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-oPLuJ5GvCPa+xE5+sUj1qdRiz2CRlz7M40INEK/qMfWH71A4aD0cpJwQiZVVdiVm"></script><script>
@@ -228,11 +227,11 @@ worker-src
       <h1>To use Glitch, please enable JavaScript</h1>
     </noscript>
 
-    
-    
+    <div id="__react-overlay-container"></div>
+    <div id="__react-pop-root"></div>
     <div id="__react-app-root"><div id="application" class=""><main id="editor" class=""><div id="app-preview" class="app-preview is-embedded app-preview-transition" style="width: 100%;"><div class="iframe-wrapper"><iframe allow="geolocation; microphone; camera; midi; encrypted-media; xr-spatial-tracking; fullscreen" allowfullscreen="" sandbox="allow-scripts allow-modals allow-forms allow-same-origin allow-top-navigation-by-user-activation allow-downloads" data-testid="app-preview-iframe" title="Preview of mythic-hypertabs" src="https://mythic-hypertabs.glitch.me/"></iframe></div></div></main></div></div>
 
-    
+    <div id="__recaptcha" style="width: 0px"><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LcqF6gZAAAAAHE-lzA_9GAux7eX9OHaQ5VdEo0C&amp;co=aHR0cHM6Ly9nbGl0Y2guY29tOjQ0Mw..&amp;hl=en&amp;v=1h-hbVSJRMOQsmO_2qL9cO0z&amp;size=invisible&amp;cb=nxnws5owpgie" width="256" height="60" role="presentation" name="a-amwv7vb58cv9" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
 
     <script src="https://unpkg.com/jshint@2.9.6/dist/jshint.js"></script>
     <script src="https://unpkg.com/jsonlint@1.6.3/web/jsonlint.js"></script>
@@ -241,4 +240,4 @@ worker-src
     <script src="https://apis.google.com/js/api.js"></script>
   
 
-</body></html>
+<div style="visibility: hidden; position: absolute; width: 100%; top: -10000px; left: 0px; right: 0px; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.5;"></div><div style="margin: 0px auto; top: 0px; left: 0px; right: 0px; position: absolute; border: 1px solid rgb(204, 204, 204); z-index: 2000000000; background-color: rgb(255, 255, 255); overflow: hidden;"><iframe title="recaptcha challenge expires in two minutes" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=1h-hbVSJRMOQsmO_2qL9cO0z&amp;k=6LcqF6gZAAAAAHE-lzA_9GAux7eX9OHaQ5VdEo0C" name="c-amwv7vb58cv9" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div></body></html>
